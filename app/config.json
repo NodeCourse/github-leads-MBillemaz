@@ -1,0 +1,12 @@
+{
+    "fields": [
+      "login",
+      "url"
+    ],
+    "dbPath": "database.xlsx",
+    "csvOptions": {
+      "delimiter"   : ",",
+      "quote"       : "\""
+    }
+  }
+  

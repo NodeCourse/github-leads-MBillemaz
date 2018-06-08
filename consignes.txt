@@ -1,0 +1,6 @@
+get the most recent trending repositories
+get each repo's stargazers
+flatten the list of stargazers
+pick only the props that you are interested by
+create a csv with the list
+print the path to the csv
